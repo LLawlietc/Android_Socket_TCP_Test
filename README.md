@@ -1,1 +1,6 @@
 # Android_Socket_TCP_Test
+Android网络接口通信实验
+用Socket基于TCP的方法实验
+发送方SocketServiceTcpTest
+接收方SocketTcpTest
+主要用的类是ServerSocket
